@@ -3,4 +3,4 @@ this is my first repository on github !!
 
 I am new to the world of development .
 
-this is a branch in which the changments will be commited 
+this is a branch in which the changements will be commited 
